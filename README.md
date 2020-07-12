@@ -1,6 +1,7 @@
 # Visual Studio Codeの環境構築
 
-VSCodeの設定は「settings.json」に書き込まれます。なので、このファイルを複数環境で共有してしまえば、どこでも同じ設定で使えるようになります。
+VSCodeの設定は「settings.json」に書き込まれます。  
+なので、このファイルを複数環境で共有してしまえば、どこでも同じ設定で使えるようになります。
 
 参考：「[どこでも同じ設定でVisualStudioCodeを使う方法](https://qiita.com/canpok1/items/a7c4c96e3c1c2a1cc532)」
 
