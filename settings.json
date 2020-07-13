@@ -11,8 +11,8 @@
     "editor.fontFamily": "'Ricty Diminished'",
     //文字間隔を制御
     "editor.letterSpacing": 1,
-    "editor.fastScrollSensitivity": 10,
     "window.zoomLevel": 0,
+    "editor.fastScrollSensitivity": 10,
     // emmet
     "emmet.variables": {
         "lang": "ja"
@@ -20,11 +20,9 @@
     "emmet.triggerExpansionOnTab": true,
     // Autoprefixer
     "autoprefixer.browsers": [
-        "> 1%",
+        "> 1% in JP",
         "last 2 versions",
         "Firefox ESR",
-        "ie 8",
-        "ie 9"
     ],
     // Live Sass Compile
     "liveSassCompile.settings.generateMap": false,
@@ -36,11 +34,9 @@
         }
     ],
     "liveSassCompile.settings.autoprefix": [
-        "> 1%", //1%以上のｼｪｱがあるブラウザ
-        "last 2 versions", //最新の2バージョンのブラウザ
-        "Firefox ESR",
-        "ie 8",
-        "ie 9"
+        "> 1% in JP", //日本で1%以上のシェアがあるブラウザ。IE10を含む。
+        "last 2 version", //最新の2バージョンのブラウザ
+        "Firefox ESR"
     ],
     "liveSassCompile.settings.excludeList": [
         "**/node_modules/**", //コンパイルしたくないフォルダ（除外リスト）
@@ -61,7 +57,7 @@
     "html.format.extraLiners": "",//どのタグの前にも空行を入れたくない場合は""に指定。
     "html.format.wrapLineLength": 0,
     "html.format.indentInnerHtml": false,//headとbodyタグのインデント
-    "html.format.contentUnformatted": "video,source,svg,line",//再フォーマットしてほしくないタグ
+    "html.format.contentUnformatted": "video,source,svg,line,pre",//再フォーマットしてほしくないタグ
     "html.format.wrapAttributes": "preserve",
 
     "workbench.editor.enablePreview": false, //プレビューモード禁止
@@ -115,7 +111,6 @@
             "value": "#42b883"
         }
     ],
-    "peacock.affectActivityBar": false,
     "html-css-class-completion.enableEmmetSupport": true,
 
 }
