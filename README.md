@@ -1,14 +1,17 @@
 # Visual Studio Codeの環境構築
 
-VSCodeの設定は「settings.json」に書き込まれる。<br>
-このファイルを共有すれば、どこでも同じ設定で使えるようになる。
+拡張機能の「Settings-Sync」をインストールして、`Ctrl + Alt + D`でダウンロードして完了。
 
-参考：「[どこでも同じ設定でVisualStudioCodeを使う方法](https://qiita.com/canpok1/items/a7c4c96e3c1c2a1cc532)」
+手動で行う場合は
 
-## 設定方法
-
-VSCodeをインストールしたら、settings.jsonを下記フォルダに入れるだけ。<br>
+- 「設定」の反映<br>
+`settings.json`を下記フォルダに入れる。<br>
 C:\Users\ユーザ\AppData\Roaming\Code\User\settings.json
+
+- 「拡張機能」の反映<br>
+ワークスペースフォルダに`.vscode`フォルダを作成して、`extensions.json`を入れる。<br>
+「推奨事項」のポップアップが出るので、まとめてインストール。
+
 
 ## 利用プラグイン
 - [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)<br>
