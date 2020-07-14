@@ -102,6 +102,9 @@ VSCode右下に表示される「Go Live」をクリックすると、ブラウ�
 - [**SCSS Formatter**](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)<br>
 【必須】SCSSを自動整形してくれる。`Shift+Alt+F`がショートカット。
 
+- [**Settings-Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)<br>
+【必須】VSCodeの設定や拡張機能をGitHubに登録して、他のPCでも使用できる。<br>
+
 - [**vscode-icons**](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)<br>
 エクスプローラーにアイコンがついて見やすくなる。
 
