@@ -51,9 +51,6 @@ CSSのコードをW3Cチェック（バリデート）する。<br>
 CSSのエラー箇所も「問題パネル」に表示されるようになる。<br>
 W3C公式はこちら→[http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.org/css-validator/)
 
-- [**EvilInspector**](https://marketplace.visualstudio.com/items?itemName=saikou9901.evilinspector)<br>
-全角スペースを強調表示する。
-
 - [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)<br>
 Gitのコミット履歴を表示する。<br>
 参考：[VSCodeでのGitの基本操作まとめ](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
