@@ -1,6 +1,6 @@
-# Visual Studio Codeの環境構築
+# VSCodeの環境構築
 
-拡張機能の「Settings-Sync」をインストールして、`Ctrl + Alt + D`でダウンロードして完了。
+拡張機能の「Settings-Sync」をインストールして、`Ctrl + Alt + D`でダウンロードするだけ。
 
 手動で行う場合は
 
