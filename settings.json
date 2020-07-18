@@ -112,5 +112,11 @@
         }
     ],
     "html-css-class-completion.enableEmmetSupport": true,
+    "sync.gist": "749bb2ff7feb3eb74423bb7fb8d22ed8",
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+    "bracket-pair-colorizer-2.highlightActiveScope": true,
 
 }
