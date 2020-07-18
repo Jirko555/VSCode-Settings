@@ -22,7 +22,7 @@ C:\Users\ユーザ\AppData\Roaming\Code\User\settings.json
 npmパッケージの「PostCSS」のプラグイン「Autoprefixer」で代用できる。<br>
 gulp用プラグインの「gulp-autoprefixer」はメンテされておらず、古いので使わない。
 
-- [**Bracket Pair Colorizer**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)<br>
+- [**Bracket Pair Colorizer2**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)<br>
 【必須】`{}` `[]` `()`などの対応する括弧を色分けしてコードの視認性を高める。
 
 - [**change-case**](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)<br>
@@ -57,6 +57,9 @@ W3C公式はこちら→[http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.o
 - [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)<br>
 Gitのコミット履歴を表示する。<br>
 参考：[VSCodeでのGitの基本操作まとめ](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+
+- [**GitHub Theme**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)<br>
+GitHubのテーマ<br>
 
 - [**GitLens**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)<br>
 git blameをVSCodeで使えるようにするプラグイン。<br>
